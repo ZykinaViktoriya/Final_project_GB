@@ -25,7 +25,7 @@
 
 # 3. Структура кода приложения:
 
-Находится в папке code
+Находится в папке (code)[https://github.com/ZykinaViktoriya/Final_project_GB/blob/main/code/Program.cs]
 
 
 
