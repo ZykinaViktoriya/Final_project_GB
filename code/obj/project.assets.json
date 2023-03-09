@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Виктория\\Учеба\\final\\Final_project_GB\\Final_project_GB.csproj",
-      "projectName": "Final_project_GB",
-      "projectPath": "D:\\Виктория\\Учеба\\final\\Final_project_GB\\Final_project_GB.csproj",
+      "projectUniqueName": "D:\\Виктория\\Учеба\\final\\Final_project_GB\\code\\code.csproj",
+      "projectName": "code",
+      "projectPath": "D:\\Виктория\\Учеба\\final\\Final_project_GB\\code\\code.csproj",
       "packagesPath": "C:\\Users\\zykin\\.nuget\\packages\\",
-      "outputPath": "D:\\Виктория\\Учеба\\final\\Final_project_GB\\obj\\",
+      "outputPath": "D:\\Виктория\\Учеба\\final\\Final_project_GB\\code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zykin\\AppData\\Roaming\\NuGet\\NuGet.Config"
