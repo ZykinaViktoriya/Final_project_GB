@@ -1,0 +1,15 @@
+D:\Виктория\Учеба\final\Final_project_GB\bin\Debug\net6.0\Final_project_GB.exe
+D:\Виктория\Учеба\final\Final_project_GB\bin\Debug\net6.0\Final_project_GB.deps.json
+D:\Виктория\Учеба\final\Final_project_GB\bin\Debug\net6.0\Final_project_GB.runtimeconfig.json
+D:\Виктория\Учеба\final\Final_project_GB\bin\Debug\net6.0\Final_project_GB.dll
+D:\Виктория\Учеба\final\Final_project_GB\bin\Debug\net6.0\Final_project_GB.pdb
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.csproj.AssemblyReference.cache
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.AssemblyInfoInputs.cache
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.AssemblyInfo.cs
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.csproj.CoreCompileInputs.cache
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.dll
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\refint\Final_project_GB.dll
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.pdb
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\Final_project_GB.genruntimeconfig.cache
+D:\Виктория\Учеба\final\Final_project_GB\obj\Debug\net6.0\ref\Final_project_GB.dll
