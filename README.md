@@ -19,4 +19,10 @@
 
 ["Russia","Denmark","Kazan"]->[]
 
+# 2. Блок-схема алгоритма
+
+![блок-схема](final_project.jpg)
+
+
+
 
